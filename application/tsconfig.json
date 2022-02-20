@@ -1,4 +1,4 @@
-{
+git push -u origin main{
   "compilerOptions": {
     "target": "ES2018",
     "module": "commonjs",
